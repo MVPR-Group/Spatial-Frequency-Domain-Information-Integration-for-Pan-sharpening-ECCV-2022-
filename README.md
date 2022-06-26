@@ -1,4 +1,4 @@
-# pan-sharpening-Team-zhouman
+# pan-sharpening    Team-zhouman
 
 |model|paper|
 |-|-|
