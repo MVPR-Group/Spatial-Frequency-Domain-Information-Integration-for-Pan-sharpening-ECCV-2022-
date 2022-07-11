@@ -10,8 +10,8 @@
 |MutInf-CVPR|Mutual Information-driven Pan-sharpening|
 |SFITNET-ECCV|Spatial-Frequency Domain Information Integration for Pan-sharpening|
 |mmnet-IJCV|Memory-augmented Deep Unfolding Network for Guided Image Super-resolution|
-|LHFnet|Adaptively Learning Low-high Frequency Information Integration for Pan-sharpening|
-|NormNet|Normalization-based Feature Selection and Restitution for Pan-sharpening|
+|LHFnet-ACM MM|Adaptively Learning Low-high Frequency Information Integration for Pan-sharpening|
+|NormNet-ACM MM|Normalization-based Feature Selection and Restitution for Pan-sharpening|
 
 
 
